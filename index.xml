@@ -6,10 +6,21 @@
     <description>Recent content on ScholarX Feed</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 27 Jan 2022 14:30:09 +0530</lastBuildDate>
+    <lastBuildDate>Thu, 27 Jan 2022 15:05:08 +0530</lastBuildDate>
     
 	<atom:link href="https://scholarxcloud.github.io/ScholarXFeed.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>This is my second post in markdown</title>
+      <link>https://scholarxcloud.github.io/ScholarXFeed.github.io/posts/secondpost/</link>
+      <pubDate>Thu, 27 Jan 2022 15:05:08 +0530</pubDate>
+      
+      <guid>https://scholarxcloud.github.io/ScholarXFeed.github.io/posts/secondpost/</guid>
+      <description>This is my second post in feed in markdown from creating new to uploading and publishing without any help.
+let&amp;rsquo;s see.
+Wish me luck</description>
+    </item>
     
     <item>
       <title>This is my first post in the feed</title>
